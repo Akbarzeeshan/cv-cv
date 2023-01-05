@@ -1,0 +1,21 @@
+h1   {
+
+    color: white;
+    background-color: blue;
+    text- text-decoration: underline;
+}
+h3 :first{
+    border: 1px;
+    color: green;
+}
+h3{
+    color: red;
+}
+h4{
+ background: lightgreen;
+ border: 1px;
+}
+h2{
+    color: aqua;
+    background-color: antiquewhite;
+}
